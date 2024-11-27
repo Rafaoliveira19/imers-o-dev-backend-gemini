@@ -1,2 +1,2 @@
-# imers-o-dev-backend-gemini
+# imersao-dev-backend-gemini
 Repositório destinado para o projeto da Imersão Dev Alura back-end com Google Gemini 
